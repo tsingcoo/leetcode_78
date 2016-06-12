@@ -9,7 +9,6 @@
 #include "Header.h"
 
 
-
 int main(int argc, const char * argv[]) {
 
     Solution S;
