@@ -26,6 +26,7 @@
 		366F36D61D0D65C9000015B9 /* leetcode_78 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = leetcode_78; sourceTree = BUILT_PRODUCTS_DIR; };
 		366F36D91D0D65C9000015B9 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		366F36E01D0D65D7000015B9 /* Header.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Header.h; sourceTree = "<group>"; };
+		3695F1F61D0F9804001E5240 /* Header2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Header2.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +61,7 @@
 			children = (
 				366F36D91D0D65C9000015B9 /* main.cpp */,
 				366F36E01D0D65D7000015B9 /* Header.h */,
+				3695F1F61D0F9804001E5240 /* Header2.h */,
 			);
 			path = leetcode_78;
 			sourceTree = "<group>";
@@ -241,6 +243,7 @@
 				366F36DF1D0D65C9000015B9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

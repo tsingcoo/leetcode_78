@@ -7,11 +7,12 @@
 //
 
 #include "Header.h"
+#include "Header2.h"
 
 
 int main(int argc, const char * argv[]) {
 
-    Solution S;
+    Solution2 S;
 
     vector<int> v={1,2,3};
 
