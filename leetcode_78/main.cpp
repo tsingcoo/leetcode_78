@@ -8,11 +8,12 @@
 
 #include "Header.h"
 #include "Header2.h"
+#include "Header3.h"
 
 
 int main(int argc, const char * argv[]) {
 
-    Solution2 S;
+    Solution3 S;
 
     vector<int> v={1,2,3};
 

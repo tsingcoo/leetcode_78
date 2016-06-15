@@ -27,6 +27,7 @@
 		366F36D91D0D65C9000015B9 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		366F36E01D0D65D7000015B9 /* Header.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Header.h; sourceTree = "<group>"; };
 		3695F1F61D0F9804001E5240 /* Header2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Header2.h; sourceTree = "<group>"; };
+		3695F1F71D113159001E5240 /* Header3.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Header3.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +63,7 @@
 				366F36D91D0D65C9000015B9 /* main.cpp */,
 				366F36E01D0D65D7000015B9 /* Header.h */,
 				3695F1F61D0F9804001E5240 /* Header2.h */,
+				3695F1F71D113159001E5240 /* Header3.h */,
 			);
 			path = leetcode_78;
 			sourceTree = "<group>";
